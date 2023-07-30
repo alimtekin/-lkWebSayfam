@@ -1,2 +1,2 @@
-# -lkWebSayfam
-kodluyoruz ,le yaptığım ilk web sayfam
+# İlkWebSayfam
+kodluyoruz ile yaptığım ilk web sayfam
